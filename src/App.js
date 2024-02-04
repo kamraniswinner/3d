@@ -1,9 +1,9 @@
-
+import Accordian from './Accordian'
 
 function App() {
   return (
    <>
-   
+   <Accordian/>
    </>
   );
 }
